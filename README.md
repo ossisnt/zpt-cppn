@@ -1,5 +1,3 @@
-#### Versão funcional da API: [https://zptcppn.he.ossisnt.dev/](https://zptcppn.he.ossisnt.dev/)
-
 # Observações
 Estando ciente das diversas possibilidades de _frameworks_ e bibliotecas existente para a criação de uma API ([Flask-Restful](https://flask-restful.readthedocs.io/en/latest/)/[Plus](https://flask-restplus.readthedocs.io/en/stable/), [FastAPI](https://fastapi.tiangolo.com/), [Django](https://www.djangoproject.com/) com [DRF](https://www.django-rest-framework.org/), etc), a abordagem neste projeto foi um pouco mais "mão na massa" para melhor expor certos conceitos que por vezes são completamente omitidos e acontecem por de baixo dos panos nos exemplos citados acima.
 
